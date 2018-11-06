@@ -30,3 +30,17 @@
     transform: rotate(360deg);
   }
 }
+
+.baslik_ {
+  background-color: rgb(100, 100, 100);
+  width: 75%;
+  height: 100px;
+  margin: auto;
+}
+
+.baslik {
+  padding-left: 30px;
+  padding-top: 20px;
+  margin: auto;
+  color: rgb(255, 255, 255);
+}
